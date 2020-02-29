@@ -9,7 +9,7 @@
 - [submission PR](https://github.com/401-advanced-javascript-AhmadK/props-and-state/pull/2)
 - [ci/cd](https://github.com/401-advanced-javascript-AhmadK/props-and-state/actions) (GitHub Actions)
 - [gh-pages](https://401-advanced-javascript-ahmadk.github.io/props-and-state/)
-- [netlify]()
+- [netlify](https://trusting-mestorf-5f8194.netlify.com)
 
 #### How to initialize/run your application (where applicable)
 
