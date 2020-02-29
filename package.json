@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-AhmadK/props-and-state/issues"
   },
-  "homepage": "https://401-advanced-javascript-ahmadk.github.io/props-and-state/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
