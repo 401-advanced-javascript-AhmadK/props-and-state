@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> renders correctly 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <input
+    className="useInput"
+    name="url"
+    onChange={[Function]}
+    placeholder="Type the URL  for the API"
+    type="text"
+  />
+  <br />
+  <label>
+    GET
+    <input
+      className="radioInputs"
+      name="GET"
+      required={true}
+      type="radio"
+    />
+  </label>
+  <label>
+    POST
+    <input
+      className="radioInputs"
+      name="POST"
+      type="radio"
+    />
+  </label>
+  <label>
+     PUT
+    <input
+      className="radioInputs"
+      name="PUT"
+      type="radio"
+    />
+  </label>
+  <label>
+    DELETE
+    <input
+      className="radioInputs"
+      name="DELETE"
+      type="radio"
+    />
+  </label>
+  <button
+    className="submit"
+    type="submit"
+  >
+    Go!
+  </button>
+</form>
+`;
